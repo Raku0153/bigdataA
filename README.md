@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# big_data_A
-=======
 ## 빅데이터 프로그래밍(N)_A팀   
 
 ### 데이터 파일 설명   
@@ -74,4 +71,3 @@ requests: 2.32.3
 matplotlib: 3.10.1   
 seaborn: 0.13.2   
 contextily: 1.6.2   
->>>>>>> a024872 (upload)
